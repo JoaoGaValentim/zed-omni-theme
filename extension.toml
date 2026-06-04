@@ -1,0 +1,7 @@
+id = "omni"
+name = "Omni"
+version = "0.1.0"
+schema_version = 1
+authors = ["João Gabriel Valentim Theodoro <seu@email.com>"]
+description = "O clássico tema Omni da Rocketseat, adaptado para o Zed."
+repository = "https://github.com/JoaoGaValentim/zed-omni-theme"
