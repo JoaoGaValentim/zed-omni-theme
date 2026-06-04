@@ -38,4 +38,4 @@ Found a specific token that could look better? Have a suggestion for the UI? Fee
 ## 👤 Credits
 
 *   Ported to Zed by [João Gabriel Valentim Theodoro](https://github.com/JoaoGaValentim).
-*   Original Omni color palette and design by [Rocketseat](https://github.com/Rocketseat/omni-theme).
+*   Original Omni color palette and design by [Rocketseat](https://github.com/getomni/visual-studio-code).
